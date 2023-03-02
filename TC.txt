@@ -1,0 +1,183 @@
+Priority 
+Medium
+Summary
+Drop-down menu "Customer Portal Layout" and "Navigation Position" 
+Precondition
+"The user is registered and belong to:
+-User's System Role - Admin/Maneger
+-User's Program Role - Program Staff/Suport &Logistics"
+
+Steps
+1. Open Customer Engagement App
+2. Click on Settings Tab
+3.  Click on "Customer Portal Layout" and "Navigation Position" drop-down menu  in Settings Tab
+Expected Result
+1. Customer Engagement App is open
+2. Setting Tab is open
+3. All drop-down menu is open by clicking on both dropdown & the drop-down Arrow.
+
+TC-2
+Priority
+Low
+Summary
+Drop-down menu "Customer Portal layout"  is available for the user   
+Precondition
+"The user is registered and belong to:      
+-User's System Role - Admin/Maneger
+ -User's Program Role - Program Staff/Suport &Logistics"
+Steps
+1. Open Customer Engagement App
+2. Click on Settings Tab
+3.  Click on drop-down menu "Customer Portal layout"
+Expected Result
+1. Customer Engagement App  is open
+2. Setting Tab is open
+3.Drop down menu is avalaible and with the options Layout A/Layout B
+
+TC-3
+Priority
+Medium
+Summary
+Drop-down menu "Navigation Position"  is available for the user   
+Precondition
+"The user is registered and belong to:
+-User's System Role - Admin/Maneger
+-User's Program Role - Program Staff/Suport &Logistics"
+Customer Engagement App is open
+Setting Tab is open
+Steps
+1.  Click on drop-down menu "Customer Portal layout"
+2. Choose  option "Layout A"
+3. Click on drop-down menu "Navigation Position"
+
+Expected Result
+1.Drop down menu is avalaible and with the options Layout A/Layout B
+2. Selected items is displayed in "Customer Portal Layout"
+3.Drop down menu is avalaible and with the options Left Navigation/Bottom Navigation
+
+TC-4
+Priority
+Medium
+Summary
+Option "Left Navigation" is available for User in drop-down menu "Navigation Position"
+Precondition
+"The user is registered and belong to: 
+-User's System Role - Admin/Maneger
+-User's Program Role - Program Staff/Suport &Logistics"
+Customer Engagement App is open
+Setting Tab is open"
+Steps
+1.  Click on drop-down menu "Customer Portal layout"
+2. Choose  option "Layout A"
+3. Click on drop-down menu "Navigation Position"
+4. Choose  option " Left Navigation"
+5. Options "Left Navigation " is displayed in "Navigation Position" drop down menu
+Expected Result
+1.Drop down menu is avalaible and with the options Layout A/Layout B
+2. Selected items is displayed in "Customer Portal Layout"
+3.Drop down menu is avalaible and with the options Left Navigation/Bottom Navigation
+4. Options "Left Navigation " is displayed in "Navigation Position" drop down menu
+
+TC-5
+Priority
+Medium
+Summary
+Option "Bottom Navigation" is available for User in drop down menu Navigation Position
+Precondition
+"The user is registered and belong to:
+-User's System Role - Admin/Maneger
+-User's Program Role - Program Staff/Suport &Logistics""
+Customer Engagement App is open
+Setting Tab is open"
+Steps
+1.  Click on drop-down menu "Customer Portal layout"
+2. Choose  option "Layout A"
+3. Click on drop-down menu "Navigation Position"
+4. Choose  option " Bottom Navigation"
+Expected Result
+1.Drop down menu is avalaible and with the options Layout A/Layout B
+2. Selected items is displayed in "Customer Portal Layout"
+3.Drop down menu is avalaible and with the options "Left Navigation/Bottom Navigation"
+4. Options "Bottom " is displayed in "Navigation Position" drop down menu
+
+
+TC -6 
+Priority
+Medium
+Summary
+Drop-down menu "Customer Portal layout"  is available to the user  with option "Layout B"
+Precondition
+"""The user is registered and belong to:
+ -User's System Role - Admin/Maneger
+ -User's Program Role - Program Staff/Suport &Logistics""
+Customer Engagement App is open
+Setting Tab is open"
+Steps
+1.  Click on drop-down menu "Customer Portal layout"
+2. Choose  option "Layout B"
+3. Click on drop-down menu "Navigation Position"
+Expected Result
+1.Drop down menu is avalaible and with the options Layout A/Layout B
+2. Selected items is displayed in "Customer Portal Layout"
+3.Drop down menu is avalaible and with the option "Disable"
+ 
+
+TC-7
+Priority
+Low
+Summary
+The content of the drop-down menu "Customer Portal layout" is changed using the arrows on the keyboard 
+Precondition
+"The user is registered and belong to: 
+-User's System Role - Admin/Maneger
+-User's Program Role - Program Staff/Suport &Logistics""
+Customer Engagement App is open
+Setting Tab is open"
+Steps
+1.  Click on drop-down menu "Customer Portal layout" 
+2. Pressed arrows "Up" and "Down" on the keyboard 
+
+Expected Result
+1.Drop down menu is avalaible and with the options Layout A/Layout B
+2.The content of "Customer Portal layout" is changed using the arrows on the keyboard.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
