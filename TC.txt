@@ -142,6 +142,9 @@ Expected Result
 2.The content of "Customer Portal layout" is changed using the arrows on the keyboard.
 
 
+These test cases were created in accordance with the requirements provided by the client. The task is a test, not confidential.
+
+
 
 
 
