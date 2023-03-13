@@ -1,0 +1,61 @@
+All pages of the site are successfully opened and displayed
+Work out transitions through sections of the site
+Work out hover effects on hovering over active elements
+Cursor shape changes to pointer when hovering over active elements
+Practicing animations
+Active elements are clickable and perform their function
+External links open in a new tab
+Checking for errors in the console
+Display title, description and image when sharing
+Forward/backward transitions using browser buttons work correctly
+The work of translations of the village
+Redirect to homepage after following non-existent routes
+Checking in PageSpeed in the green zone (mob/text)
+Checking low 3G
+Layout
+"The page layout of the desktop version of the site corresponds to the layouts:
+800x600
+1280x720
+1366x768
+1536x864
+1920x1080
+2560x1080"
+"The layout of the pages of the mobile version of the site corresponds to the layouts:
+360x800
+393x851
+414x896"
+"Cross-browser layout in accordance with the specification:
+Chrome
+firefox
+safari
+edge
+IE11
+Opera"
+"The layout of the pages of the iPad version of the site corresponds to the layouts:
+768x1024"
+Fonts match layouts
+UI elements are positioned and centered according to the layout
+Elements scale proportionately with resolution
+Mapping UI to Layout Sheets
+Actual content involved, missing fish/test data
+Burger menu works correctly
+Feedback form
+The Full Name field must contain 2-60 characters (positive case)
+The Full Name field cannot contain 1-61 characters (negative case case)
+The Full Name field cannot contain XSS (negative case case) javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+ /onmouseover=1/+/ [*/[]/+(1)//'>
+The email field must contain test@gail.com characters (positive case)
+The email field must contain test@@gail.com characters (negative case)
+Email field cannot contain XSS (negative case case) javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/ onmouseover=1/+/ [*/[]/+(1)//'>
+The email field must contain test@gail characters (negative case)
+The email field must contain 1-101 characters (negative case)
+The email field must contain 2-100 characters (positive case)
+The email field must contain testgail.com characters (negative case)
+Your Message field  50-500 characters (positive case)
+Field Your Messag 1-1500 characters (negative case case)
+Field Your Messag enter special characters (negative case case)
+Your Messag field cannot contain XSS (negative case case) javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+ /onmouseover=1/+/ [*/[]/+(1)//'>
+Field Your Messag empty field
+Check the checkbox with agreement to the terms enabled checkbox (positive case)
+Check the check-box with agreement to the terms disabled check-box (negative case)
+Follow the link in the form agreeing to the terms
+Validation message output in English
